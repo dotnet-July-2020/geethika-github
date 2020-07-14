@@ -1,0 +1,13 @@
+h1
+{
+    backgroung-color: red;
+    border-radius: 3px;
+    color: yellow;
+    font-size: 11px;
+}
+h2{
+    color: white;
+    border-top: blue;
+    border-bottom: yellow;
+    font-style: italic;
+}
