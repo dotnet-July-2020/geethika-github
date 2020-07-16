@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>radial gradient</title>
+        <style>
+        .myclass{
+            background: radial-gradient(closest-side, #3f87a6, #ebf8e1, #f69d3c);
+            height: 400px;
+            width: 100%;
+        }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h3 class ="myclass">Header</h3>
+        </header>
+    </body>
+</html>
